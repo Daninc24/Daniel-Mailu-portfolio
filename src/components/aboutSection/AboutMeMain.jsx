@@ -2,7 +2,7 @@ import React from 'react'
 import AboutMeText from './AboutMeText'
 import AboutMeImage from './AboutMeImage'
 import {motion} from 'framer-motion'
-import { fadeIn } from '../../framerMotion/variants';
+import { fadeIn } from '../framerMotion/variants';
 
 const AboutMeMain = () => {
   return (
