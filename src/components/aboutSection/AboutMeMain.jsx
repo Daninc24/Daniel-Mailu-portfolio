@@ -27,4 +27,4 @@ const AboutMeMain = () => {
   )
 }
 
-export default AboutMeMain
+export default AboutMeMain;
