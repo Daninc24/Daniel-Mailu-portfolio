@@ -5,6 +5,7 @@
   "type": "module",
   "homepage": "https://github.com/Daninc24/Daniel-Mailu-portfolio",
   "scripts": {
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
