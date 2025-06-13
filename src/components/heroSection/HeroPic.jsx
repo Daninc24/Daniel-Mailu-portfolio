@@ -2,7 +2,7 @@ import React from 'react'
 import { PiHexagon } from "react-icons/pi";
 import {motion} from 'framer-motion'
 import { fadeIn } from '../../framerMotion/variants';
-import Dan from '../../assets/DAN.png'
+import Dan from '../../assets/dan1.png'
 
 const HeroPic = () => {
   return (
